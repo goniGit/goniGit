@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFEAFF,100:FEE5EB&height=120&animation=fadeIn&section=footer&text=🐣🐥&fontAlign=70&&desc=삐약이%20개발자%20성장기)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFEAFF,100:FEE5EB&height=120&animation=fadeIn&section=footer&text=🐣🐥&fontSize=100&&desc=삐약이%20개발자%20성장기)
 ### Hi there 👋
 
 <!--
