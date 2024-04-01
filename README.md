@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFEAFF,100:FEE5EB&height=120&animation=fadeIn&section=footer&text=🐣🐥)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&size=40&pause=1000&color=F776AD&random=false&width=435&lines=삐약이+개발자+성장기)](https://git.io/typing-svg)
 <!--
 **goniGit/goniGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
